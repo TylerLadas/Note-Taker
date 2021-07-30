@@ -8,7 +8,7 @@ An application called Note Taker that can be used to write and save notes. This 
 
 ## Table of Contents
 
-* [Usage](#usage)
+* [User Story](#userStory)
 
 * [License](#license)
 
@@ -16,7 +16,11 @@ An application called Note Taker that can be used to write and save notes. This 
 
 * [Questions](#questions)
 
-## Usage
+## User Story
+
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## License
     
