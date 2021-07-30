@@ -1,10 +1,12 @@
-# Note Taker Starter
+# Note Taker
 
 ![License](https://img.shields.io/badge/License-MIT-<blue>)
 
 ## Description
 
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+
+![Screen Shot 2021-07-30 at 11 32 04 AM](https://user-images.githubusercontent.com/78171259/127676588-7974ceb0-c7b6-4ab3-a580-01fb8cddbe69.png)
 
 ## Table of Contents
 
