@@ -8,7 +8,7 @@ An application called Note Taker that can be used to write and save notes. This 
 
 ## Table of Contents
 
-* [User-Story](#user-story)
+* [User Story](#user-story)
 
 * [License](#license)
 
